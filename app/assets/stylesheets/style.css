@@ -34,6 +34,12 @@ a {
   color: #3b4043;
 }
 
+.logout-link {
+  color: #87CEFA; 
+  border: none;
+  text-decoration: none;
+}
+
 /* ヘッダー */
 
 .header {
@@ -65,6 +71,7 @@ a {
   border-radius: 3px;
   transition: 0.4s ease;
 }
+
 .nav__btn:hover{
   color: #fff;
   background: #87CEFA;
